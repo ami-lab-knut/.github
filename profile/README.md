@@ -7,7 +7,7 @@
 ## Members
 
 ### 지도교수님
-<img src="./박준휘-objectdetection@kakao.jpg" alt="Professor Image" width="150" align="left" style="margin-right: 30px; border: none;" />
+<img src="./박준휘-objectdetection@kakao.jpg" alt="Professor Image" width="100" align="left" style="margin-right: 30px; border: none;" />
 
 **박준휘(JunHwi Park)**  
 
