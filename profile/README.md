@@ -1,27 +1,42 @@
-### Hi there 👋, I'm [Your Name]!
-I'm a passionate developer who loves working on [Your Expertise]! Here are some of the things I work on:
+# KNUT Algorithmic Machine Intelligence Lab
 
-🌱 I'm currently learning **[new tech]**  
-⚡ Fun fact: I enjoy **[hobby or fun fact]**
-
-#### Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/your-twitter)
-
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
-
-
-# 연구실 소개 (Korean Version)
-여기는 연구실에 대한 소개글입니다.
+{연구실 소개 내용이 간단하게 들어갈 예정}
 
 ---
 
-[Switch to English](./README_EN.md)
+## Members
+
+### 지도교수님
+![Professor Image](링크를_넣으세요)  
+**지도 교수님 성함**  
+연구 분야: [연구 분야 입력]
+
+---
+
+## 연구 분야
+
+- 인공지능 (AI)
+- 알고리즘 설계
+- 머신 러닝
+- 딥 러닝
+
+---
+
+## 최근 연구 성과
+
+- [연구 성과 1](링크를_넣으세요)
+- [연구 성과 2](링크를_넣으세요)
+- [연구 성과 3](링크를_넣으세요)
+
+---
+
+## 연락처
+
+- 연구실 위치: [위치 정보]
+- 이메일: [이메일 주소]
+- 전화번호: [전화번호]
+
+---
+
+## 연구실 GitHub 페이지
+[연구실 GitHub 리포지토리](링크를_넣으세요)
