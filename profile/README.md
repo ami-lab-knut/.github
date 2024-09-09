@@ -19,8 +19,6 @@
 
 <br clear="left"/>
 
----
-
 ## Postdoctoral Researchers
 <img src="./members/NaeemJan.png" width="130" align="left" style="margin-right: 20px; vertical-align: top; border: none;" />
 
@@ -35,8 +33,6 @@
 
 <br clear="left"/>
 
----
-
 ## Ph.D Students
 <img src="./members/Hu Xufeng.jpg" width="130" align="left" style="margin-right: 20px; vertical-align: top; border: none;" />
 
@@ -50,7 +46,19 @@
 
 <br clear="left"/>
 
----
+## Postmaster Students
+
+<img src="./members/Saeed.jpg" width="130" align="left" style="margin-right: 20px; vertical-align: top; border: none;" />
+
+<h3>Saeed Ahmad</h3>  
+
+**Major** : Artificial Intelligence  
+**Research Area** : Image Segmentation, Vision Transformer  
+**E-mail** : saeedahmad.icp@gmail.com  
+**Google Scholar** : Coming Soon  
+**GitHub**: Coming Soon  
+
+<br clear="left"/>
 
 ## Master Students
 
@@ -101,20 +109,6 @@
 **GitHub**: Coming Soon  
 
 <br clear="left"/>
-
-<img src="./members/Saeed.jpg" width="130" align="left" style="margin-right: 20px; vertical-align: top; border: none;" />
-
-<h3>Saeed Ahmad</h3>  
-
-**Major** : Artificial Intelligence  
-**Research Area** : Image Segmentation, Vision Transformer  
-**E-mail** : saeedahmad.icp@gmail.com  
-**Google Scholar** : Coming Soon  
-**GitHub**: Coming Soon  
-
-<br clear="left"/>
-
----
 
 ## Undergraduate Students & Interns
 <img src="./members/이재현.png" width="130" align="left" style="margin-right: 20px; vertical-align: top; border: none;" />
