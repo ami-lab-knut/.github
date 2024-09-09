@@ -17,3 +17,11 @@ I'm a passionate developer who loves working on [Your Expertise]! Here are some 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+
+
+# 연구실 소개 (Korean Version)
+여기는 연구실에 대한 소개글입니다.
+
+---
+
+[Switch to English](./README_EN.md)
