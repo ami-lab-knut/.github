@@ -1,5 +1,5 @@
 # 🔥 KNUT Algorithmic Machine Intelligence Lab 🔥
-[![Lab Website](https://img.shields.io/badge/Visit%20Lab%20Website-0085ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/site/gistaimi/home) [![한국어로 언어 변경](https://img.shields.io/badge/한국어로%20언어%20변경-ff4500?style=for-the-badge&logo=googletranslate&logoColor=white)](https://your-link-here.com)
+[![Lab Website](https://img.shields.io/badge/Visit%20Lab%20Website-0085ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/site/gistaimi/home) [![한국어로 언어 변경](https://img.shields.io/badge/한국어로%20언어%20변경-ff4500?style=for-the-badge&logo=googletranslate&logoColor=white)](./README.md)
 
 
 ✨ **KNUT AMI Lab** (Korea National University of Transportation) is led by **Professor Jeonghwan Gwak** 👨‍🏫. Our lab focuses on creatively applying **innovative AI/Machine Learning technologies** to design a **better future** through a **highly innovative research program**.
