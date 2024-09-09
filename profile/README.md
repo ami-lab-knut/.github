@@ -7,7 +7,7 @@
 ## Members
 
 ### 지도교수님
-![Professor Image](profile/박준휘-objectdetection@kakao.jpg)  
+<img src="profile/박준휘-objectdetection@kakao.jpg" alt="Professor Image" width="200"/>  
 **지도 교수님 성함**  
 연구 분야: [연구 분야 입력]
 
@@ -40,3 +40,4 @@
 
 ## 연구실 GitHub 페이지
 [연구실 GitHub 리포지토리](링크를_넣으세요)
+
