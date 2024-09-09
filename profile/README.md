@@ -1,5 +1,5 @@
 # 🔥 KNUT Algorithmic Machine Intelligence Lab 🔥
-[![Lab Website](https://img.shields.io/badge/Visit%20Lab%20Website-0085ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/site/gistaimi/home) 
+[![Lab Website](https://img.shields.io/badge/Visit%20Lab%20Website-0085ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/site/gistaimi/home) [![Language : English](https://img.shields.io/badge/Change%20Language%20to%20English-ff4500?style=for-the-badge&logo=googletranslate&logoColor=white)](./README_EN.md)
 
 ✨ **KNUT AMI 연구실**(Korea National University of Transportation)은 곽정환 교수님 👨‍🏫의 지도 하에 운영되고 있습니다. 저희 연구실은 **혁신적인 인공지능/머신러닝 기술**을 창의적으로 응용하여 **더 나은 미래를 설계**하는 데 중점을 둔 **매우 혁신적인 연구 프로그램**을 자랑합니다.
 
