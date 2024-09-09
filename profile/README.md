@@ -7,13 +7,13 @@
 ## Members
 
 ### 지도교수님
-<img src="./박준휘-objectdetection@kakao.jpg" alt="Professor Image" width="100" align="left" style="margin-right: 20px;"/>  
+<img src="./박준휘-objectdetection@kakao.jpg" alt="Professor Image" width="150" align="left" style="margin-right: 30px;"/>  
 
-**지도 교수님 성함**  
-- **연구 분야**: [연구 분야 입력]  
-- **이메일**: [이메일 주소]  
-- **구글 스칼라**: [Google Scholar 링크](https://scholar.google.com)  
-- **GitHub**: [GitHub 링크](https://github.com)
+## **박준휘**  
+ **Research Area** : Object Detection, Image Segmentation, YOLO, Image Classification
+ **Email** : objectdetection@kakao.com  
+ **Google Scholar** : Coming Soon  
+ **GitHub**: Coming Soon
 
 <br clear="left"/>
 
