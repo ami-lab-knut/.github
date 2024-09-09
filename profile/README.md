@@ -7,7 +7,7 @@
 ## Members
 
 ### 지도교수님
-![Professor Image](링크를_넣으세요)  
+![Professor Image](profile/박준휘-objectdetection@kakao.jpg)  
 **지도 교수님 성함**  
 연구 분야: [연구 분야 입력]
 
