@@ -6,10 +6,16 @@
 
 ## Members
 
-### 지도교수님
-<img src="./박준휘-objectdetection@kakao.jpg" alt="Professor Image" width="100" align="left" style="margin-right: 30px; border: none;" />
+### Professor
 
-**박준휘(JunHwi Park)**  
+### Postdoctoral Researchers
+
+### Ph.D Students
+
+### Master Students
+<img src="./박준휘-objectdetection@kakao.jpg" width="130" align="left" style="margin-right: 30px; border: none;" />
+
+<h3>박준휘 (JunHwi Park)</h3>  
 
 **Major** : AI Robot Engineering  
 **Research Area** : Object Detection, Image Segmentation, YOLO, Image Classification  
@@ -18,6 +24,9 @@
 **GitHub**: Coming Soon
 
 <br clear="left"/>
+
+### Undergraduate Students & Interns
+
 
 ---
 
