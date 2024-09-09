@@ -1,4 +1,9 @@
-# Welcome to KNUT Algorithmic Machine Intelligence Lab
-<p align="justify">
- The KNUT AMI Lab. at Korea National University of Transportation is led by Prof. Jeonghwan Gwak. Our lab features a highly innovative research program focused on inventing a better future through creative applications of innovative artificial intelligence/machine learning technologies. Our interest lies in discovering and proposing the fundamental principles. With a focus on the implementation of algorithms for solving high level problems.
-</p>
+### Hi there 👋, I'm [Your Name]!
+I'm a passionate developer who loves working on [Your Expertise]! Here are some of the things I work on:
+
+🌱 I'm currently learning **[new tech]**  
+⚡ Fun fact: I enjoy **[hobby or fun fact]**
+
+#### Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/your-twitter)
