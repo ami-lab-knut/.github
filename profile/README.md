@@ -7,9 +7,15 @@
 ## Members
 
 ### 지도교수님
-<img src="./박준휘-objectdetection@kakao.jpg" alt="Professor Image" width="100"/>  
+<img src="./박준휘-objectdetection@kakao.jpg" alt="Professor Image" width="100" align="left" style="margin-right: 20px;"/>  
+
 **지도 교수님 성함**  
-연구 분야: [연구 분야 입력]
+- **연구 분야**: [연구 분야 입력]  
+- **이메일**: [이메일 주소]  
+- **구글 스칼라**: [Google Scholar 링크](https://scholar.google.com)  
+- **GitHub**: [GitHub 링크](https://github.com)
+
+<br clear="left"/>
 
 ---
 
@@ -40,4 +46,3 @@
 
 ## 연구실 GitHub 페이지
 [연구실 GitHub 리포지토리](링크를_넣으세요)
-
