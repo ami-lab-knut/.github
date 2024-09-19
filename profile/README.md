@@ -26,7 +26,6 @@
 
 **Affiliation** : Coming Soon  
 **Research Area** : Coming Soon  
-**E-mail** : jgwak@uc.at.kr  
 **Google Scholar** : [📚](https://scholar.google.co.kr/citations?hl=ko&user=S4f2ALkAAAAJ)  
 **GitHub**: Coming Soon  
 
@@ -40,7 +39,6 @@
 **Degree** : PhD in Mathematics  
 **Current Position** : Research Scientist  
 **Research Area** : Graph Theory, Artificial Intelligence, Fuzzy Sets and Generalizations, Fuzzy Algebra, Theoretical Computer Science  
-**E-mail** : naeem.jan.7300@gmail.com  
 **Google Scholar** : [📚](https://scholar.google.com/citations?user=N1p49AgAAAAJ&hl=en)  
 **GitHub**: Coming Soon  
 
@@ -53,7 +51,6 @@
 
 **Major** : Software Engineering  
 **Research Area** : Data Classification  
-**E-mail** : hxufeng66@gmail.com  
 **Google Scholar** : Coming Soon  
 **GitHub**: Coming Soon  
 
@@ -67,7 +64,6 @@
 
 **Major** : Artificial Intelligence  
 **Research Area** : Image Segmentation, Vision Transformer  
-**E-mail** : saeedahmad.icp@gmail.com  
 **Google Scholar** : Coming Soon  
 **GitHub**: Coming Soon  
 
@@ -81,7 +77,6 @@
 
 **Major** : Software Engineering  
 **Research Area** : Image Segmentation, TimeSeries Data Analysis, MultiModal Data Analysis  
-**E-mail** : knj95@kakao.com  
 **Google Scholar** : Coming Soon  
 **GitHub**: Coming Soon  
 
@@ -93,7 +88,6 @@
 
 **Major** : AI Robot Engineering  
 **Research Area** : Image Segmentation, TimeSeries Data Analysis  
-**E-mail** : knj95@kakao.com  
 **Google Scholar** : Coming Soon  
 **GitHub**: Coming Soon  
 
@@ -105,7 +99,6 @@
 
 **Major** : AI Robot Engineering  
 **Research Area** : Object Detection, Image Segmentation, YOLO, Image Classification  
-**E-mail** : objectdetection@kakao.com  
 **Google Scholar** : Coming Soon  
 **GitHub**: Coming Soon  
 
@@ -117,7 +110,6 @@
 
 **Major** : Artificial Intelligence  
 **Research Area** : Digital Image Processing, Medical Imaging, Deep and Machine Learning  
-**E-mail** : sharjeelmasood.sm@gmail.com  
 **Google Scholar** : Coming Soon  
 **GitHub**: Coming Soon  
 
@@ -130,7 +122,6 @@
 
 **Major** : Computer Engineering  
 **Research Area** : Image Classification, Optical Flow, Anomaly Detection  
-**E-mail** : dlwogus1441@gmail.com  
 **Google Scholar** : Coming Soon  
 **GitHub**: Coming Soon  
 
